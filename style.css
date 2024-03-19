@@ -1,0 +1,33 @@
+body{
+    background-image: url(./guess-the-number-small.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sbox{
+    background-color: rgba(0,0,0,0.5);
+    height: 450px;
+    width: 800px;
+    margin: auto;
+    margin-top: 200px;
+    color: orange;
+    text-align:left;
+}
+.oo
+{
+    margin-left: 310px;
+}
+#res
+{
+    text-align: center;
+}
+#tries
+{
+    text-align: center;
+}
+
+
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
